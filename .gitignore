@@ -1,28 +1,19 @@
-# Compiled Python files
+# Python files
 *.pyc
 __pycache__/
-*.pyo
 
-# IDE files
-.idea/
+# Test results
+*.pytest_cache/
+
+# IDE specific files
 .vscode/
+.idea/
 
-# Test reports and logs
-test-reports/
-logs/
+# Config files
+config.json
 
-# WebDriver executables
-geckodriver
-chromedriver
-operadriver
-edgedriver
-msedgedriver
-safaridriver
+# Generated files
+tree.txt
 
-# Environment files
+# Dependencies
 venv/
-.env
-
-# Miscellaneous
-.DS_Store
-*.log

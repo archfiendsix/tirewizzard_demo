@@ -1,15 +1,23 @@
-# Project Name
+
+# Tire Wizzard Demo
+
+Short project description
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/yourusername/yourproject.git`
+2. Navigate to the project directory: `cd yourproject`
+3. Create a virtual environment: `python -m venv venv`
+4. Activate the virtual environment: `source venv/bin/activate` (for Mac/Linux) or `venv\Scripts\activate` (for Windows)
+5. Install the project dependencies: `pip install -r requirements.txt`
+
+## Usage
+
+1. Make sure the virtual environment is activated: `source venv/bin/activate` (for Mac/Linux) or `venv\Scripts\activate` (for Windows)
+2. Run the test suite: `pytest main.py`
 
 This project is built using Python and utilizes a virtual environment to manage dependencies.
 
-## Setting up the environment
-1. Install Python on your local machine if it is not already installed. You can download the latest version of Python from the official website: https://www.python.org/downloads/
-2. Install virtualenv on your local machine by running `pip install virtualenv`.
-3. Create a new virtual environment by running `virtualenv venv`. This will create a new folder called `venv` in your project directory.
-4. Activate the virtual environment by running `source venv/bin/activate` on Linux/macOS or `venv\Scripts\activate.bat` on Windows.
-
-## Installing dependencies
-1. Once the virtual environment is activated, install the project dependencies by running `pip install -r requirements.txt`.
 
 ## Running the project
 1. Make sure you are in the virtual environment by running `which python`. It should return the path of the python interpreter inside the virtual environment.
