@@ -1,7 +1,7 @@
 
-# Tire Wizzard Demo
+# Tire Finder Demo
 
-Short project description
+This repo contains the test demo for the search module for Tire Finder web app that runs on selenium-python. Please clone this repository and set up a virtual environment to run the demo automation tests.
 
 ## Installation
 
