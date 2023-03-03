@@ -1,0 +1,28 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+*.pyo
+
+# IDE files
+.idea/
+.vscode/
+
+# Test reports and logs
+test-reports/
+logs/
+
+# WebDriver executables
+geckodriver
+chromedriver
+operadriver
+edgedriver
+msedgedriver
+safaridriver
+
+# Environment files
+venv/
+.env
+
+# Miscellaneous
+.DS_Store
+*.log
